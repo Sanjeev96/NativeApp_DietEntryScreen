@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DietaryZ</string>
+
+    <string name="txNotes">Notes</string>
+
+    <string-array name="type_array">
+        <item> </item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snack</item>
+    </string-array>
+
+    <string name="confirm">Confirm</string>
+    <string name="txtcbGps">GPS Location</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
